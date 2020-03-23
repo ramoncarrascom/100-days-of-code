@@ -9,3 +9,6 @@ Last pre-challenge day. I've scaffolded my app and brought some basic classes.
 
 ### R1D1
 Created Coordinate model. First getters and setters implementation was wrong and causing a stack overflow situation. Resolved.
+
+### R1D2
+Finished Coordinate and Triad mmodels. All unit tests working fine.
