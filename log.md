@@ -24,10 +24,18 @@
 
 **Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/tree/23ada3236e7c078f93c797441dd1972c9de31ed8)
 
-### Day 3: March 23, 2020
+### Day 3: March 24, 2020
 
 **Today's Progress**: Refactored Grid's winner player check to use Triads. Code is much cleaner now, although the project seems a little more complex in the begining.
 
 **Thoughts:** Proud of all the work I've done until this point. My focus is on designing good code instead of going fast. And I think that all that previous planning and good design is helping me to develop faster than I thought, cause I can early-detect all the errors I'm making.
+
+**Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/tree/29cbd8387bd06b36722a022536326973df9d1f70)
+
+### Day 4: March 25, 2020
+
+**Today's Progress**: Implemented Player model with it's corresponding unit tests and scaffolded the TicTacToe contract + class.
+
+**Thoughts:** Just another ordinary day evolving my code. The end of the TicTacToe game backend is near. I'd like to arrive there soon for preparing SDLC.
 
 **Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/tree/29cbd8387bd06b36722a022536326973df9d1f70)

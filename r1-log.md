@@ -15,3 +15,6 @@ Finished Coordinate and Triad mmodels. All unit tests working fine.
 
 ### R1D3
 Refactored Grid.Check() for use Triad model.
+
+### R1D4
+Created Player model and scaffolded TicTacToe contract+class
