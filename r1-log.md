@@ -12,3 +12,6 @@ Created Coordinate model. First getters and setters implementation was wrong and
 
 ### R1D2
 Finished Coordinate and Triad mmodels. All unit tests working fine.
+
+### R1D3
+Refactored Grid.Check() for use Triad model.
