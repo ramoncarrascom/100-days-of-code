@@ -18,3 +18,6 @@ Refactored Grid.Check() for use Triad model.
 
 ### R1D4
 Created Player model and scaffolded TicTacToe contract+class
+
+### R1D5
+Developed TicTacToe implementation unit tests

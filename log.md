@@ -38,4 +38,12 @@
 
 **Thoughts:** Just another ordinary day evolving my code. The end of the TicTacToe game backend is near. I'd like to arrive there soon for preparing SDLC.
 
-**Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/tree/29cbd8387bd06b36722a022536326973df9d1f70)
+**Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/tree/4970cc4599248a403d6c4b409f7b7dcd583de5e6)
+
+### Day 5: March 26, 2020
+
+**Today's Progress**: Just made TicTacToe implementation's unit testing. This is the first step of TDD.
+
+**Thoughts:** Unit testing doubles developing time. If it wasn't so important, I would have avoided it xD I now can see TDD like a time investment: developing is slower and tedious, but it saves future time
+
+**Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/tree/e12e23dcf2eacd593cb8969d0d279a6ed2bb4b58)
