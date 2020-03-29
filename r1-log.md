@@ -21,3 +21,9 @@ Created Player model and scaffolded TicTacToe contract+class
 
 ### R1D5
 Developed TicTacToe implementation unit tests
+
+### R1D6
+Formatted VPS to install SonarQube
+
+### R1D7
+Finished installing SonarQube

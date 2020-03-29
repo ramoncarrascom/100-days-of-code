@@ -47,3 +47,15 @@
 **Thoughts:** Unit testing doubles developing time. If it wasn't so important, I would have avoided it xD I now can see TDD like a time investment: developing is slower and tedious, but it saves future time
 
 **Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/tree/e12e23dcf2eacd593cb8969d0d279a6ed2bb4b58)
+
+### Day 6: March 27, 2020
+
+**Today's Progress**: I have decided to begin developing my SDLC, so I have formatted my VPS to install Sonarqube. This is very important in this momment, because I need to measure my code's quality before I begin to add features to it. I've installed all pre-requisites to configure it.
+
+**Thoughts:** I can't show much progress because I've only been configuring VPS' security, installing and configuring MariaDb and setting up users. Tomorrow will be very similar...
+
+### Day 7: March 27, 2020
+
+**Today's Progress**: I have finished installing SonarQube. The first tutorial I've found used MySQL, but currently SonarQube doesn't support that database, so I had to uninstall MySQL, install MS SQL Server Express, and reconfigure everything
+
+**Thoughts:** It's a little disappointing to re-do certain boring and annoying steps... but at least, I have SonarQube perfectly installed and working!
