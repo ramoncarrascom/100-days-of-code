@@ -54,8 +54,16 @@
 
 **Thoughts:** I can't show much progress because I've only been configuring VPS' security, installing and configuring MariaDb and setting up users. Tomorrow will be very similar...
 
-### Day 7: March 27, 2020
+### Day 7: March 28, 2020
 
 **Today's Progress**: I have finished installing SonarQube. The first tutorial I've found used MySQL, but currently SonarQube doesn't support that database, so I had to uninstall MySQL, install MS SQL Server Express, and reconfigure everything
 
 **Thoughts:** It's a little disappointing to re-do certain boring and annoying steps... but at least, I have SonarQube perfectly installed and working!
+
+### Day 8: March 29, 2020
+
+**Today's Progress**: I've implemented TicTacToeImpl and improved unit tests. The game's backend is near to finish at least.
+
+**Thoughts:** These coding days are a little "rutinary", but I'm near of my next sub-challenge: improving my SDLC by implementing Gitlab and... a new Front-End using Ionic! It's very exciting!!
+
+**Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/tree/bf37592f1d86759534dd3101dbaebf067e8e225d)

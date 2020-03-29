@@ -27,3 +27,6 @@ Formatted VPS to install SonarQube
 
 ### R1D7
 Finished installing SonarQube
+
+### R1D8
+Implemented TicTacToeImpl, and improved unit tests
