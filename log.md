@@ -67,3 +67,11 @@
 **Thoughts:** These coding days are a little "rutinary", but I'm near of my next sub-challenge: improving my SDLC by implementing Gitlab and... a new Front-End using Ionic! It's very exciting!!
 
 **Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/tree/bf37592f1d86759534dd3101dbaebf067e8e225d)
+
+### Day 9: April 2, 2020
+
+**Today's Progress**: Implemented main game, this is the first usable version, and all pieces are working perfectly fine! 
+
+**Thoughts:** I've had a couple of very hard work days, and obviously I couldn't make progress with this challenge. But in these complicated quarantine days, my mental health is more important than anything else. So I've made the decission to not code on those so hard work days. But I'm so happy because everything is working fine... just without almost doing anything!! I've detected some minor fixes to do, but I already have a working version of my TicTacToe game!!
+
+**Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/tree/2c98f133bde38a8aa18e6c19c35f9b5170aa292e)

@@ -30,3 +30,6 @@ Finished installing SonarQube
 
 ### R1D8
 Implemented TicTacToeImpl, and improved unit tests
+
+### R1D9
+Implemented main game. This is the first usable version.
