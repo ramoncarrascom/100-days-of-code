@@ -75,3 +75,11 @@
 **Thoughts:** I've had a couple of very hard work days, and obviously I couldn't make progress with this challenge. But in these complicated quarantine days, my mental health is more important than anything else. So I've made the decission to not code on those so hard work days. But I'm so happy because everything is working fine... just without almost doing anything!! I've detected some minor fixes to do, but I already have a working version of my TicTacToe game!!
 
 **Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/tree/2c98f133bde38a8aa18e6c19c35f9b5170aa292e)
+
+### Day 10: April 3, 2020
+
+**Today's Progress**: Did some minor fixing with components integration.  Added game's Id as Guid. Next step is the web service!! 
+
+**Thoughts:** Today has been a functional testing day, which required some minor fixing. Text mode game's only mission is to test components functionality. As I've already checked that everything is working OK, tomorrow will be the first web service approach.
+
+**Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/tree/077dc1676a24544441e50d4c593a5f5ed2f6c11a)
