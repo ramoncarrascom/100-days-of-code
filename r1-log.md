@@ -36,3 +36,6 @@ Implemented main game. This is the first usable version.
 
 ### R1D10
 Did some minor fixing. I've finished integration testing.
+
+### R1D11
+Player's service & repository scaffold.

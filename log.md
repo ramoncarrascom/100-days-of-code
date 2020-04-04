@@ -83,3 +83,12 @@
 **Thoughts:** Today has been a functional testing day, which required some minor fixing. Text mode game's only mission is to test components functionality. As I've already checked that everything is working OK, tomorrow will be the first web service approach.
 
 **Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/tree/077dc1676a24544441e50d4c593a5f5ed2f6c11a)
+
+### Day 11: April 4, 2020
+
+**Today's Progress**: Designed & created web api service & repository scaffold.
+
+**Thoughts:** It seems that I haven't advanced too much today, but I've been thinking about player's service & repository design so it can be scalable in upcoming games.
+
+**Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/tree/a91d82b3605e2e43da187092b303ec019f6c4fad)
+
