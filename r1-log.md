@@ -39,3 +39,7 @@ Did some minor fixing. I've finished integration testing.
 
 ### R1D11
 Player's service & repository scaffold.
+
+### R1D12
+Player repository unit tests
+

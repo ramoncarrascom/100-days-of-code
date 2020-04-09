@@ -92,3 +92,12 @@
 
 **Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/tree/a91d82b3605e2e43da187092b303ec019f6c4fad)
 
+### Day 12: April 5, 2020
+
+**Today's Progress**: Coded player repository unit tests
+
+**Thoughts:**: Coding unit tests makes me design a better project structure and adopt best practices. It helps me to think about all my needs and all the exceptions that I must consider and handle.
+
+**Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/tree/fd8ce3af1e3718faba596b6e240f28048bbbdb25)
+
+
