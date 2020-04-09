@@ -100,4 +100,11 @@
 
 **Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/tree/fd8ce3af1e3718faba596b6e240f28048bbbdb25)
 
+### Day 13: April 9, 2020
+
+**Today's Progress**: Added SetBaseRepository and assured that all unit tests pass OK
+
+**Thoughts:**: I've designed a base repository based on a Set. This will help me mock a database and begin a fast start-up implementation of the application. It is generic, which will allow me to reuse it for other entities.
+
+**Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/tree/897dcd2c83711edea870522c23b0498ab89c2089)
 

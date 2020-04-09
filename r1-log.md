@@ -43,3 +43,5 @@ Player's service & repository scaffold.
 ### R1D12
 Player repository unit tests
 
+### R1D13
+Implemented Set base repository
