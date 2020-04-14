@@ -108,3 +108,11 @@
 
 **Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/tree/897dcd2c83711edea870522c23b0498ab89c2089)
 
+### Day 14 - 15 - 16 - 17: April 10 - 11 - 12 - 13, 2020
+
+**Progress:** They have been 4 hard days dedicated to refactoring and improving unit tests. SonarQube and code coverage has revealed several bugs and misconceptions from my part.
+
+**Thoughts:** Not only I've learned to design more "testable" classes, but also I've learned a lot of new concepts on code coverage and code analysis. This lead me to discover a bug in Coverlet (the library I'm using to analyse code coverage)
+
+**Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/tree/5390fb0cacfe6cf574695d3e71792329e07dc2b9)
+

@@ -45,3 +45,6 @@ Player repository unit tests
 
 ### R1D13
 Implemented Set base repository
+
+### R1D14-15-16-17
+Refactored and improved code coverage
