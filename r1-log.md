@@ -48,3 +48,6 @@ Implemented Set base repository
 
 ### R1D14-15-16-17
 Refactored and improved code coverage
+
+### R1D18
+Implemented Player and TicTacToeImpl Repository

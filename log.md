@@ -116,3 +116,10 @@
 
 **Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/tree/5390fb0cacfe6cf574695d3e71792329e07dc2b9)
 
+### Day 18: April 14, 2020
+
+**Progress:** Implemented Player and TicTacToeImpl SetBaseRepository
+
+**Thoughts:** Just another normal day coding.
+
+**Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/tree/6a271b7b747f79d59ba78a5b2b550db734a3c08d)
