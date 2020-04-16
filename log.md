@@ -123,3 +123,11 @@
 **Thoughts:** Just another normal day coding.
 
 **Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/tree/6a271b7b747f79d59ba78a5b2b550db734a3c08d)
+
+### Day 19: April 16, 2020
+
+**Progress:** Designed main game services contracts.
+
+**Thoughts:** I'm a little tired because of my "official" work. Today I couldn't progress a lot, but I had to think about the next steps. I have a clearer image in my mind of how am I going to design the service and controller layers.
+
+**Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/tree/6a271b7b747f79d59ba78a5b2b550db734a3c08d)

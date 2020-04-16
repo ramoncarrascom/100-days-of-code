@@ -51,3 +51,6 @@ Refactored and improved code coverage
 
 ### R1D18
 Implemented Player and TicTacToeImpl Repository
+
+### R1D19
+Designed games' service contracts
