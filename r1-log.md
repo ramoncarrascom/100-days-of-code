@@ -54,3 +54,9 @@ Implemented Player and TicTacToeImpl Repository
 
 ### R1D19
 Designed games' service contracts
+
+### R1D20
+Refactor + unit tests
+
+### R1D21
+Refactor + unit tests. SonarQube green light

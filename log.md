@@ -130,4 +130,20 @@
 
 **Thoughts:** I'm a little tired because of my "official" work. Today I couldn't progress a lot, but I had to think about the next steps. I have a clearer image in my mind of how am I going to design the service and controller layers.
 
-**Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/tree/6a271b7b747f79d59ba78a5b2b550db734a3c08d)
+**Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/tree/49a355e0733c60da0dfccdc2040b29c4d40c8f2b)
+
+### Day 20: April 17, 2020
+
+**Progress:** Refactoring and unit testing, fixed Coverlet's problems
+
+**Thoughts:** After fixing Coverlet's problems, I'm having a more reliable vision of the real code coverage in my project.
+
+**Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/tree/0c8186daa5d9f1f904d1278d4fbe6a6f1622db84)
+
+### Day 21: April 18, 2020
+
+**Progress:** Refactoring and unit testing, I already have the green light on SonarQube, so I'll continue with my backend development.
+
+**Thoughts:** I've realized how important is to follow SOLID principles. This makes code more testable and more reliable. From this point on, I'm going to finish the development of my backend.
+
+**Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/commit/7d6b7710962c717ba193b2b2984be075327530af)
