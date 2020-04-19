@@ -59,4 +59,4 @@ Designed games' service contracts
 Refactor + unit tests
 
 ### R1D21
-Refactor + unit tests. SonarQube green light
+Unit tests for backend services

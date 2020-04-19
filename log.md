@@ -147,3 +147,11 @@
 **Thoughts:** I've realized how important is to follow SOLID principles. This makes code more testable and more reliable. From this point on, I'm going to finish the development of my backend.
 
 **Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/commit/7d6b7710962c717ba193b2b2984be075327530af)
+
+### Day 22: April 19, 2020
+
+**Progress:** Begun developing unit tests for the necessary services for the controller.
+
+**Thoughts:** It's time for the final sprint. These unit tests are a little more difficult because of the ammount of mocks and special conditions to simulate. Perhaps I'll get it on 2-3 days to have all the necessary things to finish my backend.
+
+**Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/commit/a0878d57fd129ebdef78a8414d304d9499db2bd1)
