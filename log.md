@@ -155,3 +155,11 @@
 **Thoughts:** It's time for the final sprint. These unit tests are a little more difficult because of the ammount of mocks and special conditions to simulate. Perhaps I'll get it on 2-3 days to have all the necessary things to finish my backend.
 
 **Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/commit/a0878d57fd129ebdef78a8414d304d9499db2bd1)
+
+### Day 23: April 21, 2020
+
+**Progress:** Finished developing unit tests for backend's services, and started services implementation
+
+**Thoughts:** Everything is working fine. The best thing of developing consistent, well structured and deeply tested internal layers, is that on external layers you only have to "join the pieces" and everything just works
+
+**Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/commit/d8546a13e588d2d22bb3f98c1491a9fffcf3d736)

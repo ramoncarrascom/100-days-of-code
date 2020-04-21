@@ -60,3 +60,9 @@ Refactor + unit tests
 
 ### R1D21
 Unit tests for backend services
+
+### R1D22
+Unit tests for backend services
+
+### R1D23
+Finished developing unit tests for backend's services, started services implementation
