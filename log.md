@@ -163,3 +163,11 @@
 **Thoughts:** Everything is working fine. The best thing of developing consistent, well structured and deeply tested internal layers, is that on external layers you only have to "join the pieces" and everything just works
 
 **Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/commit/d8546a13e588d2d22bb3f98c1491a9fffcf3d736)
+
+### Day 24: April 23, 2020
+
+**Progress:** Finished BoringToeService implementation and unit tests
+
+**Thoughts:** I've finished all the service's implementation. There's only one component remaining to finish all the backend. In a couple of days, I'll be able to see my new endpoints working.
+
+**Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/commit/1eebce68e77d684b8a4e2b9053e09eb8ead2b56c)

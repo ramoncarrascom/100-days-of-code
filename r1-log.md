@@ -66,3 +66,6 @@ Unit tests for backend services
 
 ### R1D23
 Finished developing unit tests for backend's services, started services implementation
+
+### R1D24
+Finished services and unit tests for them
