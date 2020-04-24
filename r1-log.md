@@ -69,3 +69,6 @@ Finished developing unit tests for backend's services, started services implemen
 
 ### R1D24
 Finished services and unit tests for them
+
+### R1D25
+Implemented controller layer and unit tests, plus some refactor in controller and service layer models

@@ -171,3 +171,11 @@
 **Thoughts:** I've finished all the service's implementation. There's only one component remaining to finish all the backend. In a couple of days, I'll be able to see my new endpoints working.
 
 **Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/commit/1eebce68e77d684b8a4e2b9053e09eb8ead2b56c)
+
+### Day 25: April 24, 2020
+
+**Progress:** Implemented controller layer and unit tests, plus some refactor in controller and service layer models
+
+**Thoughts:** Development stage is finished. Tomorrow I'll do some functional testing and I'll mark my backend as complete. After 25 days of working, I'm very proud of all my evolution as a developer.
+
+**Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/commit/1f266ce36d14a774f43d393c93a3b6f789364ac7)
