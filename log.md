@@ -179,3 +179,11 @@
 **Thoughts:** Development stage is finished. Tomorrow I'll do some functional testing and I'll mark my backend as complete. After 25 days of working, I'm very proud of all my evolution as a developer.
 
 **Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/commit/1f266ce36d14a774f43d393c93a3b6f789364ac7)
+
+### Day 26: April 25, 2020
+
+**Progress:** Finished functional testing and applied some fixing
+
+**Thoughts:** I've already finished the first functional version of my project's backend, and I have the first master version, although I have a lot of things pending: error control, authentification, etc. At least I have "something" to get called from my frontend.
+
+**Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/commit/ffa30e9c38ae545838c04110d862a9ad96a7e019)

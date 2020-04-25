@@ -72,3 +72,6 @@ Finished services and unit tests for them
 
 ### R1D25
 Implemented controller layer and unit tests, plus some refactor in controller and service layer models
+
+### R1D26
+Finished functional testing and applied some fixing
