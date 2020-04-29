@@ -196,3 +196,10 @@
 
 **Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/commit/ef8372c82e50a2cbfbcab6ad3bee719f5be6a415)
 
+### Day 28: April 29, 2020
+
+**Progress:** Scaffolded project's components
+
+**Thoughts:** Although I've been working on several projects using Angular, I've never started a frontend from the beginning. It's been a little hard to understand Angular's lazy loading and modules routing, but at the end I could make all routes work correctly.
+
+**Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/commit/1563d49789e7a77159f736ba445a2cb45adece78)

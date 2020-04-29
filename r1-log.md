@@ -78,3 +78,6 @@ Finished functional testing and applied some fixing
 
 ### R1D27
 Installed all necessary software and started the Ionic project
+
+### R1D28
+Created all the projects modules, components and made all routes consistent
