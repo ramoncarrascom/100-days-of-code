@@ -187,3 +187,12 @@
 **Thoughts:** I've already finished the first functional version of my project's backend, and I have the first master version, although I have a lot of things pending: error control, authentification, etc. At least I have "something" to get called from my frontend.
 
 **Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/commit/ffa30e9c38ae545838c04110d862a9ad96a7e019)
+
+### Day 27: April 26, 2020
+
+**Progress:** Started Ionic frontend
+
+**Thoughts:** I've installed all the necessary software for developing my frontend: NodeJS, Ionic and Visual Studio Code. I've also started a new frontend and begun investigating how Ionic works. It's a totally new framework for me and It's gonna be funny!!
+
+**Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/commit/ef8372c82e50a2cbfbcab6ad3bee719f5be6a415)
+

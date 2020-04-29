@@ -75,3 +75,6 @@ Implemented controller layer and unit tests, plus some refactor in controller an
 
 ### R1D26
 Finished functional testing and applied some fixing
+
+### R1D27
+Installed all necessary software and started the Ionic project
