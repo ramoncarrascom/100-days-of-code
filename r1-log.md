@@ -81,3 +81,9 @@ Installed all necessary software and started the Ionic project
 
 ### R1D28
 Created all the projects modules, components and made all routes consistent
+
+### R1D29
+Installed and configured Jenkins in my RasPi
+
+### R1D30
+Started grid + cell frontend implementation

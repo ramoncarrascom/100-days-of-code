@@ -203,3 +203,17 @@
 **Thoughts:** Although I've been working on several projects using Angular, I've never started a frontend from the beginning. It's been a little hard to understand Angular's lazy loading and modules routing, but at the end I could make all routes work correctly.
 
 **Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/commit/1563d49789e7a77159f736ba445a2cb45adece78)
+
+### Day 29: April 30, 2020
+
+**Progress:** Installed and configured Jenkins in my RasPi
+
+**Thoughts:** I've recovered a RasPi and I've installed Jenkins for using it as CI/CD manager. This is a completely new world to me, and my steps are going slowly. There's a lot of documentation to read and a lot to learn.
+
+### Day 30: May 1, 2020
+
+**Progress:** Started grid + cell frontend implementation
+
+**Thoughts:** In the begining I'm not using TDD for my developments, because I don't have all the necessary framework knowledge to know exactly how can I make things. I've been reading a lot of documentation and I'm going little by little in this stage.
+
+**Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/commit/87104e11516f9359300d50c07479163e568edfc4)
