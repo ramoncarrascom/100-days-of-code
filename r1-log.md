@@ -87,3 +87,6 @@ Installed and configured Jenkins in my RasPi
 
 ### R1D30
 Started grid + cell frontend implementation
+
+### R1D31
+I began developing my DevOps, with the building and testing part of the pipeline for the backend

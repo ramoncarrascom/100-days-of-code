@@ -217,3 +217,9 @@
 **Thoughts:** In the begining I'm not using TDD for my developments, because I don't have all the necessary framework knowledge to know exactly how can I make things. I've been reading a lot of documentation and I'm going little by little in this stage.
 
 **Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/commit/87104e11516f9359300d50c07479163e568edfc4)
+
+### Day 31: May 2, 2020
+
+**Progress:** I began developing my DevOps, with the building and testing part of the pipeline for the backend
+
+**Thoughts:** I'm going a little slow because I'm reading a lot of documentation about Jenkins, and I want to do things right. I didn't have all the necessary SDKs in my RasPi, and Arm64 versions don't have an automated install. But now everything's working perfectly fine. It builds and tests my backend. The next step is deploying the generated artifact.
