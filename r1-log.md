@@ -90,3 +90,6 @@ Started grid + cell frontend implementation
 
 ### R1D31
 I began developing my DevOps, with the building and testing part of the pipeline for the backend
+
+### R1D32
+Fixed all CSS issues
