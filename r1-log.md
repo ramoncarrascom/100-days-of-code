@@ -93,3 +93,6 @@ I began developing my DevOps, with the building and testing part of the pipeline
 
 ### R1D32
 Fixed all CSS issues
+
+### R1D33
+I've been developing my frontend deployment. I already have a very basic but operational web deployed in https://www.boringames.com

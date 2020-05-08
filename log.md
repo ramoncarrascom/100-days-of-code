@@ -231,3 +231,9 @@
 **Thoughts:** It's been several days having issues with CSS layout. I want my grid to be responsive and full CSS. After reading documentation and forums, I did the trick!! Now it's working fine. I'll have to make a CSS course, cause it is one of my weak points.
 
 **Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/commit/f26d7a7428aa9db3b0acad84fc5a8b95af3b24bf)
+
+### Day 33: May 8, 2020
+
+**Progress:** I've been developing my frontend deployment. I already have a very basic but operational web deployed in https://www.boringames.com
+
+**Thoughts:** I'm very happy cause I already could deploy my frontend by using Jenkins... I am beginning to understand the pipelines' structure and function. The only pending point is the deployment of the backend, but this will have to wait some days, cause I must configure correctly the vps that I'm going to use.
