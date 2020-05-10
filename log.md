@@ -237,3 +237,11 @@
 **Progress:** I've been developing my frontend deployment. I already have a very basic but operational web deployed in https://www.boringames.com
 
 **Thoughts:** I'm very happy cause I already could deploy my frontend by using Jenkins... I am beginning to understand the pipelines' structure and function. The only pending point is the deployment of the backend, but this will have to wait some days, cause I must configure correctly the vps that I'm going to use.
+
+### Day 34: May 9, 2020
+
+**Progress:** Developed Player's display and Scoreboard. In this moment it's only the scaffold and a little more.
+
+**Thoughts:** Developing frontend components seems a little difficult to me, because graphical components always have been my weak point. But little by little, I am evolving.
+
+**Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/commit/6d3c6c49e6d9d9bd65bd87b20a424d6f9c33eb45)

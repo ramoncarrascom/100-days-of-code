@@ -96,3 +96,6 @@ Fixed all CSS issues
 
 ### R1D33
 I've been developing my frontend deployment. I already have a very basic but operational web deployed in https://www.boringames.com
+
+### R1D34
+Scaffolded player display + scoreboard
