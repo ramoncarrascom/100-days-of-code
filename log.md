@@ -245,3 +245,11 @@
 **Thoughts:** Developing frontend components seems a little difficult to me, because graphical components always have been my weak point. But little by little, I am evolving.
 
 **Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/commit/6d3c6c49e6d9d9bd65bd87b20a424d6f9c33eb45)
+
+### Day 35: May 10, 2020
+
+**Progress:** Solved some CSS issues with Player Display
+
+**Thoughts:** It's a little bit disappointing to deal with CSS. But now, my PlayerDisplay component is working fine. I must take a look to responsiveness, but I think that I'm doing it.
+
+**Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/commit/f82492262a28e5a21a50c5c8c5c6f2abbc55189a)

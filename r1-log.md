@@ -99,3 +99,6 @@ I've been developing my frontend deployment. I already have a very basic but ope
 
 ### R1D34
 Scaffolded player display + scoreboard
+
+### R1D35
+Fixed some CSS issues
