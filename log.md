@@ -261,3 +261,11 @@
 **Thoughts:** I've evolved my apps logic. I've started the new service for backend communications. In the begining I'm going to mock all the calls.
 
 **Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/commit/a0cce6288b9e0b7c9146c80b1a6195218fad33a1)
+
+### Day 37: May 12, 2020
+
+**Progress:** Refactor and improved models
+
+**Thoughts:** I've refactored my scoreboard component to allow N number of players. I've also refactored players models to improve data linking between components. The game now shows a User Name input on initializing.
+
+**Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/commit/64aa59c9cdbdef08fd3a92f5ff1d900db36a59ab)

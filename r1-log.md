@@ -105,3 +105,6 @@ Fixed some CSS issues
 
 ### R1D36
 Service and components logic
+
+### R1D37
+Refactored components to improve data linking between them
