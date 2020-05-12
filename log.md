@@ -253,3 +253,11 @@
 **Thoughts:** It's a little bit disappointing to deal with CSS. But now, my PlayerDisplay component is working fine. I must take a look to responsiveness, but I think that I'm doing it.
 
 **Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/commit/f82492262a28e5a21a50c5c8c5c6f2abbc55189a)
+
+### Day 36: May 11, 2020
+
+**Progress:** Service and components logic
+
+**Thoughts:** I've evolved my apps logic. I've started the new service for backend communications. In the begining I'm going to mock all the calls.
+
+**Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/commit/a0cce6288b9e0b7c9146c80b1a6195218fad33a1)

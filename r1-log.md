@@ -102,3 +102,6 @@ Scaffolded player display + scoreboard
 
 ### R1D35
 Fixed some CSS issues
+
+### R1D36
+Service and components logic
