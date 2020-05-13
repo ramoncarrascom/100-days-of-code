@@ -108,3 +108,6 @@ Service and components logic
 
 ### R1D37
 Refactored components to improve data linking between them
+
+### R1D38
+Added HttpClient and developed error interceptor

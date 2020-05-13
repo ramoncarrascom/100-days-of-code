@@ -269,3 +269,11 @@
 **Thoughts:** I've refactored my scoreboard component to allow N number of players. I've also refactored players models to improve data linking between components. The game now shows a User Name input on initializing.
 
 **Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/commit/64aa59c9cdbdef08fd3a92f5ff1d900db36a59ab)
+
+### Day 38: May 13, 2020
+
+**Progress:** Added HttpClient and developed error interceptor
+
+**Thoughts:** I've begun implementing the infraestructure needed for communicating with the backend. I want to make it as solid as possible, and using best practices as much as I can. I've read all Angular documentation to reach this purpose, and I've started its implementation.
+
+**Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/commit/6e31adb065d51d61741273006c7a05fddaedb479)
