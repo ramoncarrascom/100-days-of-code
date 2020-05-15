@@ -111,3 +111,9 @@ Refactored components to improve data linking between them
 
 ### R1D38
 Added HttpClient and developed error interceptor
+
+### R1D39
+Solved problems with CORS
+
+### R1D40
+Implemented player's initialization with backend

@@ -277,3 +277,17 @@
 **Thoughts:** I've begun implementing the infraestructure needed for communicating with the backend. I want to make it as solid as possible, and using best practices as much as I can. I've read all Angular documentation to reach this purpose, and I've started its implementation.
 
 **Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/commit/6e31adb065d51d61741273006c7a05fddaedb479)
+
+### DAY 39: May 14, 2020
+
+**Progress:** Solved CORS problems in the backend
+
+**Thoughts:** It's been a horrible day, dealing with CORS problems. Reading CORS for .NET Core documentation, it seems to be as simple as adding a couple of lines of code. But the order in which these lines are added is so important, and that was my main problem. .NET Core's middleware must follow a right order, or everything just stops working.
+
+### DAY 40: May 15, 2020
+
+**Progress:** Implemented player's initialization with backend
+
+**Thoughts:** Still implementing things. I could already connect with the backend and players are beeing initialized correctly. I've had some problems with async/await workflow combined with Angular's components lifecycle.
+
+**Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/commit/eb02de690cb476c7f2c87c613d8f1e1aee69cbba)
