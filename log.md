@@ -291,3 +291,11 @@
 **Thoughts:** Still implementing things. I could already connect with the backend and players are beeing initialized correctly. I've had some problems with async/await workflow combined with Angular's components lifecycle.
 
 **Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/commit/eb02de690cb476c7f2c87c613d8f1e1aee69cbba)
+
+### DAY 41: May 16, 2020
+
+**Progress:** Implemented game's logic and fixed some CSS issues
+
+**Thoughts:** I'm improving CSS and evolving my component's logic. I'm very near from a fully functional version of the project.
+
+**Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/commit/23164b4341344eb691da8255d9168fb5e6cb6762)

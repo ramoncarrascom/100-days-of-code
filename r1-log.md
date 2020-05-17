@@ -117,3 +117,6 @@ Solved problems with CORS
 
 ### R1D40
 Implemented player's initialization with backend
+
+### R1D41
+Implemented game's logic and fixed some CSS issues
