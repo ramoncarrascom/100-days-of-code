@@ -299,3 +299,11 @@
 **Thoughts:** I'm improving CSS and evolving my component's logic. I'm very near from a fully functional version of the project.
 
 **Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/commit/23164b4341344eb691da8255d9168fb5e6cb6762)
+
+### DAY 42: May 17, 2020
+
+**Progress:** Implemented game's logic and fixed some CSS issues
+
+**Thoughts:** I'm still improving CSS and evolving my component's logic. I already have a functional version of the game, but I still have some little gaps to solve about its workflow and graphical components.
+
+**Link to work:** [Boring Games App](https://github.com/ramoncarrascom/BoringGames/commit/eb7ffa807559fcfb46b67a73b3f786ae6d66acff)

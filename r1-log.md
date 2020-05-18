@@ -120,3 +120,6 @@ Implemented player's initialization with backend
 
 ### R1D41
 Implemented game's logic and fixed some CSS issues
+
+### R1D42
+Implemented game's logic and fixed some CSS issues
