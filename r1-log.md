@@ -126,3 +126,6 @@ Implemented game's logic and fixed some CSS issues
 
 ### R1D43
 Fixed some CSS issues and implemented game over behaviour
+
+### R1D44
+Reading documentation about Jasmine + Karma
